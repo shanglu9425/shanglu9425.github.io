@@ -104,6 +104,10 @@ header.header nav.nav ul li {
     float: left;
 }
 
+.post-content img {
+    height: 400px;
+}
+
 .post-content p {
     margin-top: 15px;
     margin-bottom: 10px;
