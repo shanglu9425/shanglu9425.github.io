@@ -235,8 +235,8 @@ nav {
 
 .nav-section {
     text-align: right;
-    padding-top: 15px;
-    padding-bottom: 50px;
+    padding-top: 2px;
+    padding-bottom: 15px;
     background-color: white;
 }
 
@@ -253,6 +253,29 @@ nav.nav ul li {
     letter-spacing: 1.5px;
     display: inline;
     margin: 0px 10px;
+}
+
+.page-title {
+    max-width: 800px;
+    width: 90%;
+    padding: 0px 5%;
+    margin: auto;
+}
+
+.page-title h4 {
+    color: #50899F;
+    letter-spacing: 6.8px;
+    margin-top: 19.4px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+}
+
+.page-title h1 {
+    color: #362A46;
+    font-size: 45pt;
+    letter-spacing: 10px;
+    margin-top: 0px;
+    padding-right: 28px;
 }
 
 header a {
